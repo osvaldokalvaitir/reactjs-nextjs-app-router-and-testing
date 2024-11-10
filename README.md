@@ -13,9 +13,9 @@
 </p>
     
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/nextjs-app-router-and-testing.svg?color=00A83A">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-nextjs-app-router-and-testing.svg?color=00A83A">
 
-  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nextjs-app-router-and-testing.svg?color=00A83A">
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-nextjs-app-router-and-testing.svg?color=00A83A">
 
   <a href="https://kalvaitir.com/">
     <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
@@ -40,10 +40,10 @@ Open terminal:
 
 ```sh
 # Clone this repo
-git clone https://github.com/osvaldokalvaitir/nextjs-app-router-and-testing
+git clone https://github.com/osvaldokalvaitir/reactjs-nextjs-app-router-and-testing
 
 # Entry in folder
-cd nextjs-app-router-and-testing
+cd reactjs-nextjs-app-router-and-testing
 
 # Install deps with npm, yarn or pnpm
 npm install | yarn | pnpm install
