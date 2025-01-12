@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :shirt: devstore using Next.js, TypeScript, Tailwind CSS, tailwind-merge, Zod and @t3-oss/env-nextjs. Testing with Cypress
+  :shirt: devstore Application using Next.js, TypeScript, Tailwind CSS, tailwind-merge, Zod and @t3-oss/env-nextjs. Testing with Cypress
 </p>
     
 <p align="center">
