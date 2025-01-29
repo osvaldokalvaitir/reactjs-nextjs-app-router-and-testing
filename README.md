@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :shirt: devstore Application using Next.js, TypeScript, Tailwind CSS, tailwind-merge, Zod and @t3-oss/env-nextjs. Testing with Cypress
+  :shirt: Devstore Application using Next.js, TypeScript, Tailwind CSS, tailwind-merge, Zod and @t3-oss/env-nextjs. Testing with Cypress and consuming the features of the Node.js - Devstore API
 </p>
     
 <p align="center">
@@ -35,6 +35,8 @@
 </p>
 
 ## :wrench: Install and run
+
+_ps: Before running the app, start the [Node.js - Devstore](https://github.com/osvaldokalvaitir/nodejs-devstore) backend._
 
 Open terminal:
 
